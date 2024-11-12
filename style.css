@@ -1,4 +1,6 @@
-
+body {
+    font-family: 'Poppins';
+}
 nav {
     display: flex;
     align-items: center;
@@ -92,8 +94,11 @@ nav ul {
 .text-logos{
     display: flex;
     justify-content: space-between;
-    margin: 100px  100px  ;
+    background: #F7E8DD;
+    padding: 70px;
+    margin-top: 30px;
 }
+
 .section-2{
     display: flex;
     color: white;
